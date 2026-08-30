@@ -1,9 +1,13 @@
 # Hi, I'm Ubong Udofia👋
 
 🎯 Aspiring Cybersecurity Analyst | Threat Intelligence | Penetration Testing
+
 📍 Kamloops, BC, Canada
+
 🛡️ Background in Project Management, IT Audit, Governance, Risk & Compliance (GRC)
+
 🔍 Exploring Networking, Security Operations (SOC), Cloud Security & Vulnerability Management
+
 💻 Building hands-on cybersecurity skills through labs, projects & continuous learning
  
 
