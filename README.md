@@ -1,9 +1,11 @@
 # Hi, I'm Ubong Udofia👋
 
-🎯 Aspiring Cybersecurity | IT Audit | GRC Professional  
-📍 Based in Kamloops BC, Canada  
-📚 Currently learning Cybersecurity, IT Audit, Governance, Risk & Compliance (GRC)  
-🔍 Interested in Risk Management, Security Controls, Compliance Frameworks, and Cloud Security  
+🎯 Aspiring Cybersecurity Analyst | Threat Intelligence | Penetration Testing
+📍 Kamloops, BC, Canada
+🛡️ Background in Project Management, IT Audit, Governance, Risk & Compliance (GRC)
+🔍 Exploring Networking, Security Operations (SOC), Cloud Security & Vulnerability Management
+💻 Building hands-on cybersecurity skills through labs, projects & continuous learning
+ 
 
 ---
 
