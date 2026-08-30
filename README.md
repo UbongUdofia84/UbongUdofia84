@@ -143,11 +143,10 @@ Cisco Packet Tracer labs covering core Layer 2/3 protocol behaviour and foundati
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ubong-udofia-mba-msc-pmp-39447925)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ubonggregory@gmail.com)
 
-<sub>Replace the `#` links above with your actual LinkedIn, email, and TryHackMe/HackTheBox profile URLs.</sub>
+
 
 ---
 
