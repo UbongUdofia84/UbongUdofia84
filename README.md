@@ -2,7 +2,7 @@
 
 # Hi, I'm Ubong Udofia 👋
 
-**Aspiring Cybersecurity Analyst | Threat Intelligence | Penetration Testing | SOC**
+**Cybersecurity GRC | IT Audit | SOC | Threat Intelligence | Penetration Testing**
 
 📍 Kamloops, BC, Canada
 
