@@ -15,14 +15,20 @@
 
 ## 🛡️ About Me
 
-I’m a cybersecurity and GRC professional with experience in IT Audit, Governance, Risk & Compliance (GRC), risk assessment, control evaluation, audit support, and remediation tracking, supported by a background in Project Management (PMP) and engineering.
-Alongside my professional GRC work, I’m continuing to build hands-on technical depth through structured labs and simulated engagements across several areas:
-• 🧪 Penetration Testing — full-lifecycle VAPT engagements, from Rules of Engagement through technical assessment and client-ready reporting
-• 🚨 Security Operations (SOC) — detection, triage, and incident investigation using SIEM, firewall, authentication, and network telemetry
-• 🔭 Threat Intelligence — threat actor profiling, TTP analysis, MITRE ATT&CK mapping, and risk assessment
-• 🌐 Networking & Security Fundamentals — Linux system/network diagnostics, routing, ARP/ICMP, firewall configuration, and traffic analysis
-These projects help me connect governance and control requirements with the technical security events, vulnerabilities, and attack paths those controls are designed to address.
-Every project below is a hands-on lab I have completed end-to-end, documented, and can walk through in an interview.
+## 🛡️ About Me
+
+I'm a **Cybersecurity and GRC professional** with experience in **IT Audit, Governance, Risk & Compliance (GRC), risk assessment, control evaluation, audit support, and remediation tracking**, supported by a background in **Project Management (PMP)** and engineering.
+
+Alongside my professional GRC work, I'm continuing to build hands-on technical depth through structured labs and simulated engagements across several areas:
+
+- 🧪 **Penetration Testing** — full-lifecycle VAPT engagements, from Rules of Engagement through technical assessment and client-ready reporting
+- 🚨 **Security Operations (SOC)** — detection, triage, and incident investigation using SIEM, firewall, authentication, and network telemetry
+- 🔭 **Threat Intelligence** — threat actor profiling, TTP analysis, MITRE ATT&CK mapping, and risk assessment
+- 🌐 **Networking & Security Fundamentals** — Linux system/network diagnostics, routing, ARP/ICMP, firewall configuration, and traffic analysis
+
+These projects help me connect **governance and control requirements** with the technical security events, vulnerabilities, and attack paths those controls are designed to address.
+
+> Every project below is a hands-on lab I have completed end-to-end, documented, and can walk through in an interview.
 
 ---
 
