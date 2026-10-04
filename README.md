@@ -15,16 +15,14 @@
 
 ## 🛡️ About Me
 
-I'm transitioning into cybersecurity with a foundation most analysts don't start with: a background in **Project Management (PMP)**, **IT Audit**, and **Governance, Risk & Compliance (GRC)**. That means I don't just run tools — I scope engagements properly, document evidence the way an auditor would, and translate technical findings into risk language a board or client can act on.
-
-I'm currently building hands-on technical depth through structured labs and simulated engagements across several areas:
-
-- 🧪 **Penetration Testing** — full-lifecycle VAPT engagements, from Rules of Engagement to client-ready reporting
-- 🧯 **Security Operations (SOC)** — detection, triage, and incident investigation using SIEM and firewall telemetry
-- 🔭 **Threat Intelligence** — threat actor profiling, TTP mapping to MITRE ATT&CK, and risk assessment
-- 🌐 **Networking Fundamentals** — Linux system/network diagnostics and Cisco ARP/ICMP/router configuration — the groundwork everything above depends on
-
-Every project below is a real lab I've completed end-to-end, documented, and can walk through in an interview.
+I’m a cybersecurity and GRC professional with experience in IT Audit, Governance, Risk & Compliance (GRC), risk assessment, control evaluation, audit support, and remediation tracking, supported by a background in Project Management (PMP) and engineering.
+Alongside my professional GRC work, I’m continuing to build hands-on technical depth through structured labs and simulated engagements across several areas:
+• 🧪 Penetration Testing — full-lifecycle VAPT engagements, from Rules of Engagement through technical assessment and client-ready reporting
+• 🚨 Security Operations (SOC) — detection, triage, and incident investigation using SIEM, firewall, authentication, and network telemetry
+• 🔭 Threat Intelligence — threat actor profiling, TTP analysis, MITRE ATT&CK mapping, and risk assessment
+• 🌐 Networking & Security Fundamentals — Linux system/network diagnostics, routing, ARP/ICMP, firewall configuration, and traffic analysis
+These projects help me connect governance and control requirements with the technical security events, vulnerabilities, and attack paths those controls are designed to address.
+Every project below is a hands-on lab I have completed end-to-end, documented, and can walk through in an interview.
 
 ---
 
@@ -137,7 +135,7 @@ Cisco Packet Tracer labs covering core Layer 2/3 protocol behaviour and foundati
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ubong-udofia-mba-msc-pmp-39447925)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ubong-g-udofia)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ubonggregory@gmail.com)
 
 
